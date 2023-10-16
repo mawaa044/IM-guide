@@ -1,2 +1,2 @@
-# IM-guide
-en guide om å overleve på IM
+# IM-dikt
+et dikt om IM
